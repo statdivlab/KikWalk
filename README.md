@@ -1,8 +1,6 @@
 # KikWalk
 
-This repository contains code to reproduce the results of the isotopically-guided Markov Chain model described in
-
-Matthew J. Wooller$^*$, Clement Bataille$^*$, Patrick Druckenmiller, Gregory M. Erickson, Pamela Groves, Norma Haubenstock, Timothy Howe, Johanna Irrgeher, Daniel Mann, Katherine Moon, Ben Potter, Thomas Prohaska, Jeffrey Rasic, Joshua Reuther, Beth Shapiro, Karen J. Spaleta and Amy Willis ($^*$ denotes equal contribution). Lifetime Mobility of an Arctic Woolly Mammoth. \textit{Science}, In Press, 2021.
+This repository contains code to reproduce the results of the isotopically-guided Markov Chain model described in **Lifetime Mobility of an Arctic Woolly Mammoth** by Matthew J. Wooller, Clément Bataille, Patrick Druckenmiller, Gregory M. Erickson, Pamela Groves, Norma Haubenstock, Timothy Howe, Johanna Irrgeher, Daniel Mann, Katherine Moon, Ben Potter, Thomas Prohaska, Jeffrey Rasic, Joshua Reuther, Beth Shapiro, Karen J. Spaleta and Amy Willis, published in *Science* in 2021.
 
 # Details
 
@@ -17,3 +15,5 @@ Maintainer: [Amy Willis](http://statisticaldiversitylab.com), Department of Bios
 Software authors: [Amy Willis](http://statisticaldiversitylab.com) and [Clément Bataille](https://clementbataille.wixsite.com/earthscience)
 
 Corresponding authors on manuscript: [Matthew Wooller](mailto:mjwooller@alaska.edu) and [Clément Bataille](mailto:cbataill@uottawa.ca)
+
+![](misc/mammoth_watercolor_by_Sarah_Teichman_and_Pauline_Trinh.png)
