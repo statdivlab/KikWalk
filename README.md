@@ -1,13 +1,12 @@
 # KikWalk
 
-This repository contains code to reproduce the results of our isotopically-guided Markov Chain model and its analysis.
-
-The manuscript accompanying this repository is currently *Under Review*. We will publicly release data accompanying the manuscript upon publication, subject to compliance with journal embargo policies. **At this time, only reviewers have access to the data (see Supplementary Data for Review).** 
+This repository contains code to reproduce the results of the isotopically-guided Markov Chain model described in "Lifetime Mobility of an Arctic Woolly Mammoth" by Wooller, Bataille, ..., \& Willis (2021, *Science*). 
 
 # Details
 
 - Please see the subfolder `data/` for the data needed for this analysis
 - Please see the subfolder `R/` for the scripts needed to run the analysis
+- Please see the subfolder `output/` for the resultant random walks
 
 # Humans
 
