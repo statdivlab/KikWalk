@@ -31,6 +31,7 @@ library(rgdal)
 library(raster)
 library(maps)
 library(maptools)
+data(wrld_simpl)
 library(rasterVis)
 library(mvnmle)
 library(mixtools)
@@ -41,13 +42,15 @@ library(ggplot2)
 library(gridExtra)
 library(broom)
 library(data.table)
-library(assignR)
 library(readxl)
 library(sp)
 library(spatstat)
 library(rgeos)
-library(assignR)
-data(wrld_simpl)
+
+
+devtools::install_version("assignR", version = "1.2.1", repos = "http://cran.us.r-project.org")
+library(assignR) 
+data(d18o_world)
 
 # To run the analyses in parallel, you will need one of the following two options:
 
