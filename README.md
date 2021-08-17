@@ -1,8 +1,8 @@
 # KikWalk
 
-This repository contains code to reproduce the results of the isotopically-guided Markov Chain model described in 
+This repository contains code to reproduce the results of the isotopically-guided Markov Chain model described in
 
-Matthew J. Wooller, Clement Bataille, Patrick Druckenmiller, Gregory M. Erickson, Pamela Groves, Norma Haubenstock, Timothy Howe, Johanna Irrgeher, Daniel Mann, Katherine Moon, Ben A. Potter, Thomas Prohaska, Jeffrey Rasic, Joshua Reuther, Beth Shapiro, Karen J. Spaleta, and Amy D. Willis. [**Lifetime Mobility of an Arctic Woolly Mammoth**](https://science.sciencemag.org/content/373/6556/806). *Science*, 373(6556):806–808, 2021
+Matthew J. Wooller, Clement Bataille, Patrick Druckenmiller, Gregory M. Erickson, Pamela Groves, Norma Haubenstock, Timothy Howe, Johanna Irrgeher, Daniel Mann, Katherine Moon, Ben A. Potter, Thomas Prohaska, Jeffrey Rasic, Joshua Reuther, Beth Shapiro, Karen J. Spaleta, and Amy D. Willis (2021). [**Lifetime Mobility of an Arctic Woolly Mammoth**](https://science.sciencemag.org/content/373/6556/806). *Science*, 373(6556):806–808, doi: 10.1126/science.abg1134. 
 
 # Details
 
